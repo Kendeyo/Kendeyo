@@ -82,6 +82,3 @@ I have started writing about embedded systems, IoT, and firmware development. Ch
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitors">
-</p>
