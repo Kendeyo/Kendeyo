@@ -60,7 +60,7 @@ Let's collaborate and build something amazing together! Feel free to reach out:
 
 ## 📝 **Blog & Articles**
 
-I have started writing about embedded systems, IoT, and firmware development. Check out my latest articles:
+I have started writing about embedded systems, IoT, and firmware development. Check out my latest post:
 
 - [Embedded GUI on ESP32 Display](https://www.linkedin.com/posts/kennedy-odeyo-otieno-42772a1b6_guis-activity-7290604526665924608-sc2k?utm_source=share&utm_medium=member_android&rcm=ACoAADJMG98ByYUjN5jjn-GPbZbgdJRJHE_B1zk)
 
