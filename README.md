@@ -2,7 +2,12 @@
 
 ### Embedded Systems Engineer | Internet of Things | Firmware Developer | Telecommunications | Energy
 
-Welcome to my profile! I'm passionate about building **embedded systems**, designing **IoT solutions**, and writing **efficient firmware**. I love working with microcontrollers, sensors, and low-level programming to create innovative and impactful projects.
+Welcome to my profile! I hold a BSc. in Electrical and Electrinics Engineering. I'm passionate about building **embedded systems**, designing **IoT solutions**, and writing **efficient firmware**. I love working with microcontrollers, sensors, and low-level programming to create innovative and impactful projects. I am also conversant in **Printed Circuit Board(PCB)** Design.
+
++ **MCUS**: AVR, STM32 & ESP32
++ **Communication Protocols**: UART, I2C, SPI & CAN
++ **Wireless Commnication**: WiFi, Bluetooth Low Energy(BLE) & LoRAWAN
++ **Tools**: CubeIDE, KeilIDE, Arduino,KICAD & EasyEDA
 
 ---
 
